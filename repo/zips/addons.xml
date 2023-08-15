@@ -24,7 +24,7 @@
 	<extension point="xbmc.service" library="autoexec.py">
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Automatically start Netflix whenj Kodi starts.</summary>
+		<summary lang="en_GB">Automatically start Netflix when Kodi starts.</summary>
 		<description lang="en_GB">The Autoexec Service will automatically be run on Kodi startup.</description>
 		<platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE Version 2</license>
